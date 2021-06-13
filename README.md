@@ -1,1 +1,1 @@
-This is book *Port Operations, Planning And Logistics* Chinese Edition.
+This is the Chinese Edition of book *Port Operations, Planning And Logistics*.
