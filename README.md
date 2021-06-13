@@ -1,1 +1,1 @@
-This is book *Port Operations, Planning And Logistics* 的中文翻译
+This is book *Port Operations, Planning And Logistics* Chinese Edition.
